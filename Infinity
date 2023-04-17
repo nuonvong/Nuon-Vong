@@ -1,0 +1,8 @@
+
+
+user_name = input("Nuon Vong")
+
+user_age = input("41 ")
+
+"Hello" + Nuon Vong + ", you are " + 41
+
